@@ -1,0 +1,13 @@
+#btn1{
+    background-color: rgb(56, 184, 56);
+    padding: 20px;
+    border-radius: 100px;
+    width: 200px;
+}
+#btn2{
+    background-color: rgb(48, 48, 214);
+    padding: 20px;
+    border-radius: 100px;
+    width: 200px; 
+    margin-left: 20px;
+}
